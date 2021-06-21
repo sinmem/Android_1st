@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FirstForTest</string>
+    <string name="changeTextBtnVar">点击切换</string>
+    <string name="countText">CLICK COUNT: %d</string>
+    <string name="Reset">Reset</string>
+    <string name="cal">计算器</string>
+    <string name="title_activity_calculator">MainActivity</string>
+    <string name="title_home">主页</string>
+    <string name="title_cal">计算器</string>
+    <string name="title_notifications">其他</string>
+    <string name="cal_clear">C</string>
+    <string name="cal_divide">/</string>
+    <string name="cal_multiply">*</string>
+    <string name="cal_add">+</string>
+    <string name="cal_subtract">-</string>
+    <string name="cal_del">←</string>
+    <string name="cal_1">1</string>
+    <string name="cal_2">2</string>
+    <string name="cal_3">3</string>
+    <string name="cal_4">4</string>
+    <string name="cal_5">5</string>
+    <string name="cal_6">6</string>
+    <string name="cal_7">7</string>
+    <string name="cal_8">8</string>
+    <string name="cal_9">9</string>
+    <string name="cal_pow">^</string>
+    <string name="cal_0">0</string>
+    <string name="cal_.">.</string>
+    <string name="cal_percent">%</string>
+    <string name="cal_enter">=</string>
+</resources>
